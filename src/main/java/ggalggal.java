@@ -1,2 +1,1 @@
-public class ggalggal {
-}
+//머지테스트
